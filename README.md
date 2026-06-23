@@ -17,7 +17,7 @@
 
 | Period | University | Programme | Status |
 |--------|-----------|-----------|--------|
-| 2022 – Present | Jiaying University | Computer Science | Undergraduate |
+| 2023 – Present | Jiaying University | Computer Science | Undergraduate |
 | 2025 (Exchange) | Universiti Teknologi Malaysia (UTM) | Special Topics | Exchange Student |
 
 ---
