@@ -92,8 +92,7 @@
 
 ## 🔗 Connect With Me
 
-- 🌐 [GitHub Pages (e-Portfolio)](https://wuchenxi.github.io/e-portfolio) — *coming soon*
-- 🔗 LinkedIn — *coming soon*
+wuchenxi202603@gmail.com
 
 ---
 
